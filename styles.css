@@ -3,7 +3,7 @@
 .preloader {
 position:fixed;
 z-index: 9999;
-background :url(images/SVG/ookpreloader.svg) 50% 50% no-repeat;
+background :url(https://res.cloudinary.com/cohem/image/upload/v1544963596/ookpreloader.svg alt="cohem preloader") 50% 50% no-repeat;
 top : 0px;
 left : 0px;
 height : 100%;
