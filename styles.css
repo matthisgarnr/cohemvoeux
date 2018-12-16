@@ -111,7 +111,6 @@ font-color:white;
 
     }
 
-
 .slogan span {
 
         font-size: 40px;
@@ -137,7 +136,7 @@ font-color:white;
         background: #000;
         border-radius: 35px;
         position: absolute;
-        bottom: 20px;
+        bottom: -8px;
         right: 0;
         text-align: center;
     
